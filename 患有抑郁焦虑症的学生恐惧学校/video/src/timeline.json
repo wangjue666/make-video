@@ -1,0 +1,446 @@
+{
+  "duration": 410.3,
+  "endCard": 404.26,
+  "items": [
+    {
+      "i": 0,
+      "section": "question",
+      "group": null,
+      "start": 1.4,
+      "duration": 8.8,
+      "file": "00.wav"
+    },
+    {
+      "i": 1,
+      "section": "self",
+      "group": null,
+      "start": 11.4,
+      "duration": 4.16,
+      "file": "01.wav"
+    },
+    {
+      "i": 2,
+      "section": "brave",
+      "group": "brave",
+      "start": 16.56,
+      "duration": 9.44,
+      "file": "02.wav"
+    },
+    {
+      "i": 3,
+      "section": "brave",
+      "group": "brave",
+      "start": 26.6,
+      "duration": 7.84,
+      "file": "03.wav"
+    },
+    {
+      "i": 4,
+      "section": "brave",
+      "group": "brave",
+      "start": 35.04,
+      "duration": 9.28,
+      "file": "04.wav"
+    },
+    {
+      "i": 5,
+      "section": "start",
+      "group": null,
+      "start": 45.42,
+      "duration": 5.76,
+      "file": "05.wav"
+    },
+    {
+      "i": 6,
+      "section": "walk",
+      "group": null,
+      "start": 52.08,
+      "duration": 7.52,
+      "file": "06.wav"
+    },
+    {
+      "i": 7,
+      "section": "walk",
+      "group": "beat",
+      "start": 60.2,
+      "duration": 3.2,
+      "file": "07.wav"
+    },
+    {
+      "i": 8,
+      "section": "walk",
+      "group": "beat",
+      "start": 63.9,
+      "duration": 2.88,
+      "file": "08.wav"
+    },
+    {
+      "i": 9,
+      "section": "walk",
+      "group": "beat",
+      "start": 67.18,
+      "duration": 3.04,
+      "file": "09.wav"
+    },
+    {
+      "i": 10,
+      "section": "stairs",
+      "group": null,
+      "start": 71.22,
+      "duration": 4.8,
+      "file": "10.wav"
+    },
+    {
+      "i": 11,
+      "section": "stairs",
+      "group": null,
+      "start": 76.52,
+      "duration": 2.88,
+      "file": "11.wav"
+    },
+    {
+      "i": 12,
+      "section": "stairs",
+      "group": null,
+      "start": 80.2,
+      "duration": 6.72,
+      "file": "12.wav"
+    },
+    {
+      "i": 13,
+      "section": "graph",
+      "group": null,
+      "start": 88.02,
+      "duration": 6.08,
+      "file": "13.wav"
+    },
+    {
+      "i": 14,
+      "section": "graph",
+      "group": "formula",
+      "start": 94.7,
+      "duration": 3.36,
+      "file": "14.wav"
+    },
+    {
+      "i": 15,
+      "section": "graph",
+      "group": "formula",
+      "start": 98.36,
+      "duration": 7.84,
+      "file": "15.wav"
+    },
+    {
+      "i": 16,
+      "section": "graph",
+      "group": null,
+      "start": 107.2,
+      "duration": 9.44,
+      "file": "16.wav"
+    },
+    {
+      "i": 17,
+      "section": "graph",
+      "group": null,
+      "start": 117.14,
+      "duration": 7.68,
+      "file": "17.wav"
+    },
+    {
+      "i": 18,
+      "section": "graph",
+      "group": null,
+      "start": 125.42,
+      "duration": 3.04,
+      "file": "18.wav"
+    },
+    {
+      "i": 19,
+      "section": "late",
+      "group": null,
+      "start": 129.46,
+      "duration": 8.8,
+      "file": "19.wav"
+    },
+    {
+      "i": 20,
+      "section": "late",
+      "group": null,
+      "start": 138.86,
+      "duration": 12.32,
+      "file": "20.wav"
+    },
+    {
+      "i": 21,
+      "section": "late",
+      "group": null,
+      "start": 151.78,
+      "duration": 6.4,
+      "file": "21.wav"
+    },
+    {
+      "i": 22,
+      "section": "weeks",
+      "group": null,
+      "start": 159.18,
+      "duration": 8,
+      "file": "22.wav"
+    },
+    {
+      "i": 23,
+      "section": "weeks",
+      "group": null,
+      "start": 167.68,
+      "duration": 1.92,
+      "file": "23.wav"
+    },
+    {
+      "i": 24,
+      "section": "advantage",
+      "group": null,
+      "start": 171,
+      "duration": 7.04,
+      "file": "24.wav"
+    },
+    {
+      "i": 25,
+      "section": "advantage",
+      "group": null,
+      "start": 178.64,
+      "duration": 8.32,
+      "file": "25.wav"
+    },
+    {
+      "i": 26,
+      "section": "dark",
+      "group": null,
+      "start": 187.96,
+      "duration": 9.92,
+      "file": "26.wav"
+    },
+    {
+      "i": 27,
+      "section": "dark",
+      "group": null,
+      "start": 198.58,
+      "duration": 12.96,
+      "file": "27.wav"
+    },
+    {
+      "i": 28,
+      "section": "dark",
+      "group": null,
+      "start": 212.24,
+      "duration": 3.84,
+      "file": "28.wav"
+    },
+    {
+      "i": 29,
+      "section": "walk",
+      "group": "beat2",
+      "start": 217.08,
+      "duration": 5.6,
+      "file": "29.wav"
+    },
+    {
+      "i": 30,
+      "section": "walk",
+      "group": "beat2",
+      "start": 223.18,
+      "duration": 6.24,
+      "file": "30.wav"
+    },
+    {
+      "i": 31,
+      "section": "canyon",
+      "group": null,
+      "start": 230.42,
+      "duration": 10.4,
+      "file": "31.wav"
+    },
+    {
+      "i": 32,
+      "section": "canyon",
+      "group": null,
+      "start": 241.42,
+      "duration": 6.88,
+      "file": "32.wav"
+    },
+    {
+      "i": 33,
+      "section": "lesson",
+      "group": null,
+      "start": 249.4,
+      "duration": 7.68,
+      "file": "33.wav"
+    },
+    {
+      "i": 34,
+      "section": "lesson",
+      "group": null,
+      "start": 257.58,
+      "duration": 8.32,
+      "file": "34.wav"
+    },
+    {
+      "i": 35,
+      "section": "lesson",
+      "group": null,
+      "start": 266.5,
+      "duration": 9.12,
+      "file": "35.wav"
+    },
+    {
+      "i": 36,
+      "section": "lesson",
+      "group": null,
+      "start": 276.22,
+      "duration": 7.36,
+      "file": "36.wav"
+    },
+    {
+      "i": 37,
+      "section": "redox",
+      "group": null,
+      "start": 284.58,
+      "duration": 9.44,
+      "file": "37.wav"
+    },
+    {
+      "i": 38,
+      "section": "redox",
+      "group": null,
+      "start": 294.62,
+      "duration": 5.92,
+      "file": "38.wav"
+    },
+    {
+      "i": 39,
+      "section": "gate",
+      "group": null,
+      "start": 301.64,
+      "duration": 6.24,
+      "file": "39.wav"
+    },
+    {
+      "i": 40,
+      "section": "gate",
+      "group": null,
+      "start": 308.28,
+      "duration": 12.48,
+      "file": "40.wav"
+    },
+    {
+      "i": 41,
+      "section": "gate",
+      "group": null,
+      "start": 321.46,
+      "duration": 5.6,
+      "file": "41.wav"
+    },
+    {
+      "i": 42,
+      "section": "mountain",
+      "group": null,
+      "start": 328.16,
+      "duration": 12.48,
+      "file": "42.wav"
+    },
+    {
+      "i": 43,
+      "section": "mountain",
+      "group": null,
+      "start": 341.34,
+      "duration": 7.52,
+      "file": "43.wav"
+    },
+    {
+      "i": 44,
+      "section": "mountain",
+      "group": null,
+      "start": 349.56,
+      "duration": 6.4,
+      "file": "44.wav"
+    },
+    {
+      "i": 45,
+      "section": "heart",
+      "group": null,
+      "start": 357.06,
+      "duration": 4.96,
+      "file": "45.wav"
+    },
+    {
+      "i": 46,
+      "section": "heart",
+      "group": null,
+      "start": 362.72,
+      "duration": 4.8,
+      "file": "46.wav"
+    },
+    {
+      "i": 47,
+      "section": "heart",
+      "group": null,
+      "start": 368.22,
+      "duration": 5.92,
+      "file": "47.wav"
+    },
+    {
+      "i": 48,
+      "section": "heart",
+      "group": null,
+      "start": 374.94,
+      "duration": 2.88,
+      "file": "48.wav"
+    },
+    {
+      "i": 49,
+      "section": "dawn",
+      "group": null,
+      "start": 379.02,
+      "duration": 4.64,
+      "file": "49.wav"
+    },
+    {
+      "i": 50,
+      "section": "dawn",
+      "group": null,
+      "start": 384.36,
+      "duration": 3.2,
+      "file": "50.wav"
+    },
+    {
+      "i": 51,
+      "section": "dawn",
+      "group": null,
+      "start": 388.06,
+      "duration": 3.68,
+      "file": "51.wav"
+    },
+    {
+      "i": 52,
+      "section": "dawn",
+      "group": null,
+      "start": 392.24,
+      "duration": 5.28,
+      "file": "52.wav"
+    },
+    {
+      "i": 53,
+      "section": "dawn",
+      "group": null,
+      "start": 398.22,
+      "duration": 1.6,
+      "file": "53.wav"
+    },
+    {
+      "i": 54,
+      "section": "go",
+      "group": null,
+      "start": 400.82,
+      "duration": 1.44,
+      "file": "54.wav"
+    }
+  ]
+}
