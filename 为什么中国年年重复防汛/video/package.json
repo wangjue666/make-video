@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "dependencies": {
+    "@fontsource/noto-serif-sc": "^5.3.1"
+  },
+  "type": "module"
+}

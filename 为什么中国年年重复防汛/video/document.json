@@ -1,0 +1,332 @@
+{
+  "version": 2,
+  "projectType": "standard",
+  "revision": 0,
+  "settings": {
+    "width": 1920,
+    "height": 1080,
+    "duration": 600.7,
+    "fps": 30
+  },
+  "audio": [
+    {
+      "src": "assets/voice/00.wav",
+      "start": 1.4,
+      "duration": 7.52,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/01.wav",
+      "start": 10.22,
+      "duration": 6.08,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/02.wav",
+      "start": 17.5,
+      "duration": 10.72,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/03.wav",
+      "start": 28.92,
+      "duration": 8.64,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/04.wav",
+      "start": 38.46,
+      "duration": 9.6,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/05.wav",
+      "start": 48.46,
+      "duration": 7.84,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/06.wav",
+      "start": 57.4,
+      "duration": 9.6,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/07.wav",
+      "start": 67.6,
+      "duration": 6.08,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/08.wav",
+      "start": 74.58,
+      "duration": 10.08,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/09.wav",
+      "start": 85.86,
+      "duration": 2.88,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/10.wav",
+      "start": 89.14,
+      "duration": 5.92,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/11.wav",
+      "start": 95.66,
+      "duration": 6.08,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/12.wav",
+      "start": 102.84,
+      "duration": 11.52,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/13.wav",
+      "start": 114.96,
+      "duration": 9.92,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/14.wav",
+      "start": 125.88,
+      "duration": 12,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/15.wav",
+      "start": 139.08,
+      "duration": 11.84,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/16.wav",
+      "start": 152.12,
+      "duration": 7.2,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/17.wav",
+      "start": 159.72,
+      "duration": 18.72,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/18.wav",
+      "start": 179.64,
+      "duration": 9.92,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/19.wav",
+      "start": 190.06,
+      "duration": 18.24,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/20.wav",
+      "start": 209.6,
+      "duration": 6.08,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/21.wav",
+      "start": 216.88,
+      "duration": 11.04,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/22.wav",
+      "start": 228.42,
+      "duration": 4.64,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/23.wav",
+      "start": 233.56,
+      "duration": 9.28,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/24.wav",
+      "start": 243.94,
+      "duration": 9.92,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/25.wav",
+      "start": 254.36,
+      "duration": 8.8,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/26.wav",
+      "start": 264.16,
+      "duration": 8.8,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/27.wav",
+      "start": 273.46,
+      "duration": 13.12,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/28.wav",
+      "start": 287.18,
+      "duration": 7.84,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/29.wav",
+      "start": 295.52,
+      "duration": 11.52,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/30.wav",
+      "start": 307.64,
+      "duration": 16.8,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/31.wav",
+      "start": 324.94,
+      "duration": 5.44,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/32.wav",
+      "start": 331.58,
+      "duration": 17.92,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/33.wav",
+      "start": 350.5,
+      "duration": 8.96,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/34.wav",
+      "start": 359.96,
+      "duration": 13.6,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/35.wav",
+      "start": 374.66,
+      "duration": 17.44,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/36.wav",
+      "start": 392.7,
+      "duration": 14.24,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/37.wav",
+      "start": 407.54,
+      "duration": 19.52,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/38.wav",
+      "start": 428.26,
+      "duration": 14.24,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/39.wav",
+      "start": 443.8,
+      "duration": 11.36,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/40.wav",
+      "start": 455.66,
+      "duration": 11.52,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/41.wav",
+      "start": 468.28,
+      "duration": 7.36,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/42.wav",
+      "start": 476.24,
+      "duration": 17.12,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/43.wav",
+      "start": 493.86,
+      "duration": 5.44,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/44.wav",
+      "start": 500.3,
+      "duration": 14.56,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/45.wav",
+      "start": 516.16,
+      "duration": 5.92,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/46.wav",
+      "start": 522.48,
+      "duration": 6.88,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/47.wav",
+      "start": 530.26,
+      "duration": 11.36,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/48.wav",
+      "start": 542.72,
+      "duration": 9.44,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/49.wav",
+      "start": 552.56,
+      "duration": 13.44,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/50.wav",
+      "start": 567.1,
+      "duration": 13.6,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/51.wav",
+      "start": 581.9,
+      "duration": 4.64,
+      "volume": 0
+    },
+    {
+      "src": "assets/voice/52.wav",
+      "start": 587.74,
+      "duration": 5.76,
+      "volume": 0
+    }
+  ],
+  "title": "video"
+}

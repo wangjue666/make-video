@@ -1,0 +1,430 @@
+{
+  "duration": 600.7,
+  "endCard": 594.7,
+  "items": [
+    {
+      "i": 0,
+      "section": "title",
+      "group": null,
+      "start": 1.4,
+      "duration": 7.52,
+      "file": "00.wav"
+    },
+    {
+      "i": 1,
+      "section": "noRiver",
+      "group": null,
+      "start": 10.22,
+      "duration": 6.08,
+      "file": "01.wav"
+    },
+    {
+      "i": 2,
+      "section": "monsoon",
+      "group": null,
+      "start": 17.5,
+      "duration": 10.72,
+      "file": "02.wav"
+    },
+    {
+      "i": 3,
+      "section": "monsoon",
+      "group": null,
+      "start": 28.92,
+      "duration": 8.64,
+      "file": "03.wav"
+    },
+    {
+      "i": 4,
+      "section": "funnel",
+      "group": null,
+      "start": 38.46,
+      "duration": 9.6,
+      "file": "04.wav"
+    },
+    {
+      "i": 5,
+      "section": "funnel",
+      "group": null,
+      "start": 48.46,
+      "duration": 7.84,
+      "file": "05.wav"
+    },
+    {
+      "i": 6,
+      "section": "rivers",
+      "group": null,
+      "start": 57.4,
+      "duration": 9.6,
+      "file": "06.wav"
+    },
+    {
+      "i": 7,
+      "section": "rivers",
+      "group": null,
+      "start": 67.6,
+      "duration": 6.08,
+      "file": "07.wav"
+    },
+    {
+      "i": 8,
+      "section": "bengal",
+      "group": null,
+      "start": 74.58,
+      "duration": 10.08,
+      "file": "08.wav"
+    },
+    {
+      "i": 9,
+      "section": "mapEU",
+      "group": "eu",
+      "start": 85.86,
+      "duration": 2.88,
+      "file": "09.wav"
+    },
+    {
+      "i": 10,
+      "section": "mapEU",
+      "group": "eu",
+      "start": 89.14,
+      "duration": 5.92,
+      "file": "10.wav"
+    },
+    {
+      "i": 11,
+      "section": "mapCN",
+      "group": null,
+      "start": 95.66,
+      "duration": 6.08,
+      "file": "11.wav"
+    },
+    {
+      "i": 12,
+      "section": "profile",
+      "group": null,
+      "start": 102.84,
+      "duration": 11.52,
+      "file": "12.wav"
+    },
+    {
+      "i": 13,
+      "section": "profile",
+      "group": null,
+      "start": 114.96,
+      "duration": 9.92,
+      "file": "13.wav"
+    },
+    {
+      "i": 14,
+      "section": "plain",
+      "group": null,
+      "start": 125.88,
+      "duration": 12,
+      "file": "14.wav"
+    },
+    {
+      "i": 15,
+      "section": "exam",
+      "group": null,
+      "start": 139.08,
+      "duration": 11.84,
+      "file": "15.wav"
+    },
+    {
+      "i": 16,
+      "section": "pass",
+      "group": null,
+      "start": 152.12,
+      "duration": 7.2,
+      "file": "16.wav"
+    },
+    {
+      "i": 17,
+      "section": "pass",
+      "group": null,
+      "start": 159.72,
+      "duration": 18.72,
+      "file": "17.wav"
+    },
+    {
+      "i": 18,
+      "section": "fail",
+      "group": null,
+      "start": 179.64,
+      "duration": 9.92,
+      "file": "18.wav"
+    },
+    {
+      "i": 19,
+      "section": "fail",
+      "group": null,
+      "start": 190.06,
+      "duration": 18.24,
+      "file": "19.wav"
+    },
+    {
+      "i": 20,
+      "section": "logic",
+      "group": null,
+      "start": 209.6,
+      "duration": 6.08,
+      "file": "20.wav"
+    },
+    {
+      "i": 21,
+      "section": "rise",
+      "group": null,
+      "start": 216.88,
+      "duration": 11.04,
+      "file": "21.wav"
+    },
+    {
+      "i": 22,
+      "section": "rise",
+      "group": null,
+      "start": 228.42,
+      "duration": 4.64,
+      "file": "22.wav"
+    },
+    {
+      "i": 23,
+      "section": "rise",
+      "group": null,
+      "start": 233.56,
+      "duration": 9.28,
+      "file": "23.wav"
+    },
+    {
+      "i": 24,
+      "section": "flood100",
+      "group": null,
+      "start": 243.94,
+      "duration": 9.92,
+      "file": "24.wav"
+    },
+    {
+      "i": 25,
+      "section": "flood100",
+      "group": null,
+      "start": 254.36,
+      "duration": 8.8,
+      "file": "25.wav"
+    },
+    {
+      "i": 26,
+      "section": "refugee",
+      "group": null,
+      "start": 264.16,
+      "duration": 8.8,
+      "file": "26.wav"
+    },
+    {
+      "i": 27,
+      "section": "refugee",
+      "group": null,
+      "start": 273.46,
+      "duration": 13.12,
+      "file": "27.wav"
+    },
+    {
+      "i": 28,
+      "section": "refugee",
+      "group": null,
+      "start": 287.18,
+      "duration": 7.84,
+      "file": "28.wav"
+    },
+    {
+      "i": 29,
+      "section": "refugee",
+      "group": null,
+      "start": 295.52,
+      "duration": 11.52,
+      "file": "29.wav"
+    },
+    {
+      "i": 30,
+      "section": "refugee",
+      "group": null,
+      "start": 307.64,
+      "duration": 16.8,
+      "file": "30.wav"
+    },
+    {
+      "i": 31,
+      "section": "refugee",
+      "group": null,
+      "start": 324.94,
+      "duration": 5.44,
+      "file": "31.wav"
+    },
+    {
+      "i": 32,
+      "section": "decline",
+      "group": null,
+      "start": 331.58,
+      "duration": 17.92,
+      "file": "32.wav"
+    },
+    {
+      "i": 33,
+      "section": "credit",
+      "group": null,
+      "start": 350.5,
+      "duration": 8.96,
+      "file": "33.wav"
+    },
+    {
+      "i": 34,
+      "section": "credit",
+      "group": null,
+      "start": 359.96,
+      "duration": 13.6,
+      "file": "34.wav"
+    },
+    {
+      "i": 35,
+      "section": "nomads",
+      "group": null,
+      "start": 374.66,
+      "duration": 17.44,
+      "file": "35.wav"
+    },
+    {
+      "i": 36,
+      "section": "nomads",
+      "group": null,
+      "start": 392.7,
+      "duration": 14.24,
+      "file": "36.wav"
+    },
+    {
+      "i": 37,
+      "section": "nomads",
+      "group": null,
+      "start": 407.54,
+      "duration": 19.52,
+      "file": "37.wav"
+    },
+    {
+      "i": 38,
+      "section": "delay",
+      "group": null,
+      "start": 428.26,
+      "duration": 14.24,
+      "file": "38.wav"
+    },
+    {
+      "i": 39,
+      "section": "concrete",
+      "group": null,
+      "start": 443.8,
+      "duration": 11.36,
+      "file": "39.wav"
+    },
+    {
+      "i": 40,
+      "section": "concrete",
+      "group": null,
+      "start": 455.66,
+      "duration": 11.52,
+      "file": "40.wav"
+    },
+    {
+      "i": 41,
+      "section": "limit",
+      "group": null,
+      "start": 468.28,
+      "duration": 7.36,
+      "file": "41.wav"
+    },
+    {
+      "i": 42,
+      "section": "limit",
+      "group": null,
+      "start": 476.24,
+      "duration": 17.12,
+      "file": "42.wav"
+    },
+    {
+      "i": 43,
+      "section": "limit",
+      "group": null,
+      "start": 493.86,
+      "duration": 5.44,
+      "file": "43.wav"
+    },
+    {
+      "i": 44,
+      "section": "dragons",
+      "group": null,
+      "start": 500.3,
+      "duration": 14.56,
+      "file": "44.wav"
+    },
+    {
+      "i": 45,
+      "section": "fangxun",
+      "group": "fx",
+      "start": 516.16,
+      "duration": 5.92,
+      "file": "45.wav"
+    },
+    {
+      "i": 46,
+      "section": "fangxun",
+      "group": "fx",
+      "start": 522.48,
+      "duration": 6.88,
+      "file": "46.wav"
+    },
+    {
+      "i": 47,
+      "section": "levee",
+      "group": null,
+      "start": 530.26,
+      "duration": 11.36,
+      "file": "47.wav"
+    },
+    {
+      "i": 48,
+      "section": "source",
+      "group": null,
+      "start": 542.72,
+      "duration": 9.44,
+      "file": "48.wav"
+    },
+    {
+      "i": 49,
+      "section": "source",
+      "group": null,
+      "start": 552.56,
+      "duration": 13.44,
+      "file": "49.wav"
+    },
+    {
+      "i": 50,
+      "section": "curse",
+      "group": null,
+      "start": 567.1,
+      "duration": 13.6,
+      "file": "50.wav"
+    },
+    {
+      "i": 51,
+      "section": "end",
+      "group": null,
+      "start": 581.9,
+      "duration": 4.64,
+      "file": "51.wav"
+    },
+    {
+      "i": 52,
+      "section": "end",
+      "group": null,
+      "start": 587.74,
+      "duration": 5.76,
+      "file": "52.wav"
+    }
+  ]
+}
